@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/ylw-project/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/ylw-project/static/js/main.d104922a.chunk.js",
-    "main.js.map": "/ylw-project/static/js/main.d104922a.chunk.js.map",
+    "main.js": "/ylw-project/static/js/main.e5aea457.chunk.js",
+    "main.js.map": "/ylw-project/static/js/main.e5aea457.chunk.js.map",
     "runtime-main.js": "/ylw-project/static/js/runtime-main.1ce6ff6c.js",
     "runtime-main.js.map": "/ylw-project/static/js/runtime-main.1ce6ff6c.js.map",
-    "static/js/2.e5fd5635.chunk.js": "/ylw-project/static/js/2.e5fd5635.chunk.js",
-    "static/js/2.e5fd5635.chunk.js.map": "/ylw-project/static/js/2.e5fd5635.chunk.js.map",
+    "static/js/2.4ade4b09.chunk.js": "/ylw-project/static/js/2.4ade4b09.chunk.js",
+    "static/js/2.4ade4b09.chunk.js.map": "/ylw-project/static/js/2.4ade4b09.chunk.js.map",
     "static/js/3.1873a6db.chunk.js": "/ylw-project/static/js/3.1873a6db.chunk.js",
     "static/js/3.1873a6db.chunk.js.map": "/ylw-project/static/js/3.1873a6db.chunk.js.map",
     "index.html": "/ylw-project/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/ylw-project/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.e5fd5635.chunk.js.LICENSE.txt": "/ylw-project/static/js/2.e5fd5635.chunk.js.LICENSE.txt",
+    "static/js/2.4ade4b09.chunk.js.LICENSE.txt": "/ylw-project/static/js/2.4ade4b09.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/ylw-project/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1ce6ff6c.js",
-    "static/js/2.e5fd5635.chunk.js",
+    "static/js/2.4ade4b09.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.d104922a.chunk.js"
+    "static/js/main.e5aea457.chunk.js"
   ]
 }
