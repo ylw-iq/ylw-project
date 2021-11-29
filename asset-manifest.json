@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ylw-project/static/css/main.0416a60a.chunk.css",
-    "main.js": "/ylw-project/static/js/main.aaac6386.chunk.js",
-    "main.js.map": "/ylw-project/static/js/main.aaac6386.chunk.js.map",
+    "main.css": "/ylw-project/static/css/main.dc23a4b7.chunk.css",
+    "main.js": "/ylw-project/static/js/main.954f6304.chunk.js",
+    "main.js.map": "/ylw-project/static/js/main.954f6304.chunk.js.map",
     "runtime-main.js": "/ylw-project/static/js/runtime-main.e30ba150.js",
     "runtime-main.js.map": "/ylw-project/static/js/runtime-main.e30ba150.js.map",
     "static/js/2.3d646bc8.chunk.js": "/ylw-project/static/js/2.3d646bc8.chunk.js",
@@ -10,13 +10,14 @@
     "static/js/3.2c8da21d.chunk.js": "/ylw-project/static/js/3.2c8da21d.chunk.js",
     "static/js/3.2c8da21d.chunk.js.map": "/ylw-project/static/js/3.2c8da21d.chunk.js.map",
     "index.html": "/ylw-project/index.html",
-    "static/css/main.0416a60a.chunk.css.map": "/ylw-project/static/css/main.0416a60a.chunk.css.map",
-    "static/js/2.3d646bc8.chunk.js.LICENSE.txt": "/ylw-project/static/js/2.3d646bc8.chunk.js.LICENSE.txt"
+    "static/css/main.dc23a4b7.chunk.css.map": "/ylw-project/static/css/main.dc23a4b7.chunk.css.map",
+    "static/js/2.3d646bc8.chunk.js.LICENSE.txt": "/ylw-project/static/js/2.3d646bc8.chunk.js.LICENSE.txt",
+    "static/media/Logo.c5d72742.svg": "/ylw-project/static/media/Logo.c5d72742.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e30ba150.js",
     "static/js/2.3d646bc8.chunk.js",
-    "static/css/main.0416a60a.chunk.css",
-    "static/js/main.aaac6386.chunk.js"
+    "static/css/main.dc23a4b7.chunk.css",
+    "static/js/main.954f6304.chunk.js"
   ]
 }
