@@ -5,9 +5,9 @@ const Section5 = () => {
         <section className="sectionFive">
          <div>
             <h1>Section Five</h1>
-            <p>This will contain</p>
+            <p>This will contain.</p>
             <ul>
-                <li>The get to know us page.</li>
+                <li>The get to know us page</li>
             </ul>
             </div>
         </section>
