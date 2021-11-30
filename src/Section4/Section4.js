@@ -5,7 +5,7 @@ const Section4 = () => {
         <section className="sectionFour">
          <div>
             <h1>Section four</h1>
-            <p>This will contain</p>
+            <p>This will contain the following:</p>
             <ul>
                 <li>The sessions page</li>
             </ul>
