@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ylw-project/static/css/main.d5129b40.chunk.css",
-    "main.js": "/ylw-project/static/js/main.5bc3c888.chunk.js",
-    "main.js.map": "/ylw-project/static/js/main.5bc3c888.chunk.js.map",
+    "main.js": "/ylw-project/static/js/main.e5a18099.chunk.js",
+    "main.js.map": "/ylw-project/static/js/main.e5a18099.chunk.js.map",
     "runtime-main.js": "/ylw-project/static/js/runtime-main.c402e3c4.js",
     "runtime-main.js.map": "/ylw-project/static/js/runtime-main.c402e3c4.js.map",
     "static/css/2.38b0d7e9.chunk.css": "/ylw-project/static/css/2.38b0d7e9.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.38b0d7e9.chunk.css",
     "static/js/2.c97aea06.chunk.js",
     "static/css/main.d5129b40.chunk.css",
-    "static/js/main.5bc3c888.chunk.js"
+    "static/js/main.e5a18099.chunk.js"
   ]
 }
