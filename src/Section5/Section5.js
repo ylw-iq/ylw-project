@@ -7,7 +7,8 @@ const Section5 = () => {
             <h1>Section five</h1>
             <p>This will include:</p>
             <ul>
-                <li>The get to know us page..</li>
+                <li>The get to know us page.</li>
+                <li>The contact us page.</li>
             </ul>
             </div>
         </section>

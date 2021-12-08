@@ -8,7 +8,6 @@ const Section3 = () => {
             <p>This will contain:</p>
             <ul>
                 <li>The Voting page</li>
-                <li>The contact us page</li>
             </ul>
             </div>
         </section>

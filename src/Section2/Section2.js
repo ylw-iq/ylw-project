@@ -7,7 +7,7 @@ const Section2 = () => {
             <h1>Section two</h1>
             <p>This will contain</p>
             <ul>
-                <li>Who are we page c</li>
+                <li>Who are we page</li>
                 <li>Our Programs page</li>
             </ul>
             </div>
